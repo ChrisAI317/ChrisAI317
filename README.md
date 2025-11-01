@@ -8,9 +8,8 @@
 - Senior studying **Computer Science** (Operating Systems, Virtualization, CCNA, Database Systems, OS Security Management).  
 - Interested in **AI, front-end development, cybersecurity, and automation tools**.  
 - Currently working (privately) on:  
-  - **Webhook Monitor** (Main Project)  
-  - **API Explorer Dashboard**  
-  - **Algorithm Visualizer**  
+  - **Knowledge Base Search Tool** (Main Project)  
+  - **Webhook Monitor**   
 - I also plan to publish smaller side projects along the way.  
 
 ---
