@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-- Senior studying **Computer Science** (AI Fundamentals, Networking, Operating Systems, Data Structures).  
+- Senior studying **Computer Science** (Operating Systems, Virtualization, CCNA, Database Systems, OS Security Management).  
 - Interested in **AI, front-end development, cybersecurity, and automation tools**.  
 - Currently working (privately) on:  
   - **Webhook Monitor** (Main Project)  
