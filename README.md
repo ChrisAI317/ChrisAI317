@@ -1,4 +1,4 @@
-# Hello all, I'm Chris 👋
+# Hello all, I'm Chris
 
 Senior **Computer Science** student interested in **AI, Operating Systems, and automation tools**.
 
