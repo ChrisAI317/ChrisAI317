@@ -31,8 +31,9 @@ These are the technologies I’ve used in my projects so far.
 </p>
 
 ### Deployment / Hosting
+- **Web Applications**: Netlify
+- **Desktop Applications**: PyInstaller (standalone .exe)
+
 <a href="https://www.netlify.com">
   <img src="https://www.netlify.com/assets/badges/netlify-badge-color-accent.svg" alt="Deploys by Netlify" />
 </a>
-
----
