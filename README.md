@@ -37,7 +37,7 @@ A Windows desktop tool that scans engineering submittal PDFs to detect Territory
 A web application that decodes model and feature strings into structured, human-readable segments using JSON-based nomenclature dictionaries.
 
 **Key Features:**
-- Instant decoding of HVAC eries model strings
+- Instant decoding of HVAC series model strings
 - JSON-driven dictionary system for consistent, versioned decoding rules
 - Unknown code detection for early error flagging
 - Clean, responsive interface for quick lookups
