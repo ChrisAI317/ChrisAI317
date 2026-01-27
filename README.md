@@ -5,8 +5,7 @@ Senior **Computer Science** student building **AI-powered tools, web application
 ---
 
 ## About Me
-
-- Senior studying **Computer Science**
+- Senior Computer Science student focused on automation + applied AI for engineering workflows.
 - Democratizing technical workflows by turning complexity into simple, accessible tools.
 - Building practical apps that solve real-world problems for engineering and technical teams
 - Learning more about **AI, APIs,** and **Operating systems**
@@ -19,6 +18,7 @@ Senior **Computer Science** student building **AI-powered tools, web application
 **Automated submittal tracking and verification desktop application**
 
 A Windows desktop tool that scans engineering submittal PDFs to detect Territory Manager names and generate color-coded Excel reports with detailed matching statistics.
+Automates what was previously a one-by-one submittal review process—enabling batch checks of ~800 submittals with an Excel summary in minutes rather than hours.
 
 **Key Features:**
 - Intelligent fuzzy name matching with auto-generated variations
@@ -35,6 +35,7 @@ A Windows desktop tool that scans engineering submittal PDFs to detect Territory
 **Lightweight web tool for decoding HVAC model strings**
 
 A web application that decodes model and feature strings into structured, human-readable segments using JSON-based nomenclature dictionaries.
+Turns a 30-minute, 15-page manual lookup into a ~2-minute automated decode.
 
 **Key Features:**
 - Instant decoding of HVAC series model strings
