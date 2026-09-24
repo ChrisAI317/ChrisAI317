@@ -1,82 +1,74 @@
 # Hello, I'm Chris
 
-Senior **Computer Science** student building **AI-powered tools, web applications, and desktop automation solutions**.
+Computer Science graduate building practical software, automation tools, and AI-powered applications.
 
----
-
-## About Me
-- Senior Computer Science student focused on automation + applied AI for engineering workflows.
-- Democratizing technical workflows by turning complexity into simple, accessible tools.
-- Building practical apps that solve real-world problems for engineering and technical teams
-- Learning more about **AI, APIs,** and **Operating systems**
-
----
+I like turning repetitive, complex workflows into simple tools people can actually use.
 
 ## Featured Projects
 
-### SubmittalGuard
-**Automated submittal tracking and verification desktop application**
+### SizzlerSnap
+Chrome extension for finding, identifying, and copying model numbers across web-based quoting and product workflows.
 
-A Windows desktop tool that scans engineering submittal PDFs to detect Territory Manager names and generate color-coded Excel reports with detailed matching statistics.
-Automates what was previously a one-by-one submittal review process—enabling batch checks of ~800 submittals with an Excel summary in minutes rather than hours.
+- Side-panel search and on-page Quick Lookup
+- Model recognition, aliases, favorites, and recent items
+- Local CSV, TSV, TXT, and JSON import with browser-only storage
 
-**Key Features:**
-- Intelligent fuzzy name matching with auto-generated variations
-- Coversheet detection using customizable keyword signatures
-- Batch PDF processing with drag-and-drop support
-- Excel report generation with summary statistics and color-coded results
-- 100% local processing—no cloud services or data uploads
-
-**Tech Stack:** Python, Tkinter, PyMuPDF, RapidFuzz, openpyxl, PyInstaller
+**Tech:** JavaScript, Chrome Extension APIs, HTML/CSS
 
 ---
 
-### Nomenclature Decoder
-**Lightweight web tool for decoding HVAC model strings**
+### Big Town
+Local business discovery platform that ranks restaurants, parks, shops, and other places using Google Places data.
 
-A web application that decodes model and feature strings into structured, human-readable segments using JSON-based nomenclature dictionaries.
-Turns a 30-minute, 15-page manual lookup into a ~2-minute automated decode.
+- 474 automated tests with GitHub Actions CI
+- Backend search, caching, geolocation, rate limiting, and REST API integration
+- Deployed on Render and used by 10+ beta users
 
-**Key Features:**
-- Instant decoding of HVAC series model strings
-- JSON-driven dictionary system for consistent, versioned decoding rules
-- Unknown code detection for early error flagging
-- Clean, responsive interface for quick lookups
+**Tech:** Python, Flask, JavaScript, Google Places API, pytest
 
-**Tech Stack:** HTML, CSS, JavaScript, JSON, Netlify
+---
+
+### HVAC Knowledge Base RAG
+Local AI document-search system for querying technical documentation with cited answers.
+
+- Hybrid vector and full-text retrieval
+- PostgreSQL + pgvector document storage
+- Local LLM inference with automated evaluation
+
+**Tech:** Python, LlamaIndex, PostgreSQL, pgvector, Docker, Ollama
+
+---
+
+### SubmittalGuard
+Windows desktop application that batch-processes engineering submittal PDFs and generates Excel validation reports.
+
+- Automates PDF parsing, matching, and validation
+- Generates structured Excel reports for review
+- Reduced manual review time by approximately 95%
+
+**Tech:** Python, Tkinter, PyMuPDF, openpyxl
+
+---
+
+### HVAC Nomenclature Decoder
+JavaScript application that decodes HVAC model numbers using structured JSON nomenclature data.
+
+- Converts model strings into readable equipment information
+- Detects unknown or unsupported model-number codes
+- Reduced equipment lookup time from approximately 25 minutes to 2 minutes
+
+**Tech:** JavaScript, HTML/CSS, JSON
 
 ---
 
 ## Tech Stack
 
-Technologies I've used across my projects:
-
-### Languages
 <p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,postgres,docker,git,github,githubactions" alt="Technology icons" />
 </p>
 
-### Libraries & Frameworks
-- **PDF Processing:** PyMuPDF (fitz)
-- **Fuzzy Matching:** RapidFuzz
-- **GUI Development:** Tkinter, tkinterdnd2
-- **Excel Generation:** openpyxl
-- **Data Handling:** JSON, CSV
-
-### Deployment & Tools
-- **Web Hosting:** Netlify
-- **Desktop Packaging:** PyInstaller (standalone executables)
-- **Version Control:** Git
-
----
+**Languages:** Python, JavaScript, SQL, HTML/CSS, VBA, PowerShell  
+**Backend & Data:** Flask, PostgreSQL, pgvector, REST APIs  
+**AI & ML:** LlamaIndex, Ollama, sentence-transformers  
+**Testing & Tools:** pytest, Git, GitHub Actions, Docker  
+**Deployment:** Render, Netlify, PyInstaller
