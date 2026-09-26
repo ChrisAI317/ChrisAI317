@@ -1,7 +1,6 @@
 # Hello, I'm Chris
 
-Computer Science graduate building practical software, automation tools, and AI-powered applications.
-
+Computer Science graduate building practical software, automation tools, and AI-powered applications as a hobby.
 I like turning repetitive, complex workflows into simple tools people can actually use.
 
 ## Featured Projects
