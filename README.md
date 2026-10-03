@@ -1,7 +1,7 @@
 # Hello, I'm Chris
 
-Computer Science graduate building practical software, automation tools, and AI-powered applications as a hobby.
-I like turning repetitive, complex workflows into simple tools people can actually use.
+Computer Science graduate and Inside Sales Engineer building practical software, automation tools, and AI-powered applications as a hobby.
+Turning repetitive, complex workflows into simple tools people can actually use, cut time, and increase productivity.
 
 ## Featured Projects
 
