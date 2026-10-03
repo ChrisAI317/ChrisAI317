@@ -60,6 +60,18 @@ JavaScript application that decodes HVAC model numbers using structured JSON nom
 
 ---
 
+### SpecBuilder
+
+HVAC plan-and-spec proposal builder that turns equipment requirements into standardized Word proposal content.
+
+- Replaces manual template lookup, copy/paste, and line-by-line editing with a guided equipment-and-options workflow
+- Uses an Excel-based database to manage approximately 50 equipment types and ~2,000 selectable proposal options
+- Reduces repetitive proposal-building time by generating formatted, auto-numbered Word scope sections in seconds
+
+**Tech:** VBA, MSForms, Microsoft Excel, Microsoft Word Object Model
+
+---
+
 ## Tech Stack
 
 <p>
