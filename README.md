@@ -1,6 +1,6 @@
 # Hello, I'm Chris
 
-Computer Science graduate and Inside Sales Engineer building practical software, automation tools, and AI-powered applications.
+Computer Science graduate and Inside Sales Engineer building software, automation tools, and AI-powered applications as a hobby.
 Turning repetitive, complex workflows into simple tools people can actually use, cut time, and increase productivity.
 
 ## Featured Projects
