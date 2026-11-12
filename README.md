@@ -76,7 +76,7 @@ I built a local AI-powered knowledge system that searches technical manuals and 
 
 ### FieldVision X - Predictions Are Easy. Accountability Is Hard.
 
-**Python | Statistical Modeling | Data Pipelines **
+**Python | Statistical Modeling | Data Pipelines**
 
 Anybody can make a prediction.
 
