@@ -10,7 +10,7 @@ I develop software, automation tools, and AI-powered applications that turn comp
 
 My approach is simple: understand the problem, eliminate unnecessary complexity, and build something that actually works.
 
-I'm interested in the intersection of software engineering, automation, artificial intelligence, and systems that make everyday work easier.
+I'm interested in the intersection of business, software engineering, automation, artificial intelligence, and systems that make everyday work easier.
 
 **I don't build projects just because. I build things because I believe there's a better way.**
 
